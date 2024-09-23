@@ -46,22 +46,22 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "이기영 ♥ 한소진의 모바일 청첩장",
+        title: "이석환 ♥ 노주현의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/gMXuEri.png",
+        imageUrl: "https://i.imgur.com/QclOaxc.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo18.luvle.co.kr",
-          webUrl: "https://mo18.luvle.co.kr",
+          mobileWebUrl: "https://mo27.luvle.co.kr",
+          webUrl: "https://mo27.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo18.luvle.co.kr",
-            webUrl: "https://mo18.luvle.co.kr",
+            mobileWebUrl: "https://mo27.luvle.co.kr",
+            webUrl: "https://mo27.luvle.co.kr",
           },
         },
       ],
